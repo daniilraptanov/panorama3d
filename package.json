@@ -1,0 +1,13 @@
+{
+  "name": "panorama3d",
+  "version": "0.1.0",
+  "private": false,
+  "homepage": "https://daniilraptanov.github.io/panorama3d/",
+  "dependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
